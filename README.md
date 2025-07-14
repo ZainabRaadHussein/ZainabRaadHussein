@@ -1,10 +1,9 @@
 ## Hi there 👋
 <h1 align="center">Hi , I'm Zainab</h1>
-<h3 align="center">A passionate frontend developer from Irak,I live in Germany</h3>
+<h3 align="center">A passionate frontend developer from Irak,live in Germany</h3>
 
-- 📫 How to reach me **zainab123raad@gmail.com**
+How to reach me **zainab123raad@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
