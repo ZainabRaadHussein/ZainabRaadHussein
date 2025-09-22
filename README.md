@@ -1,8 +1,7 @@
 <h1 align="center">Hello , I'm Zainab</h1>
 <h3 align="center">Iam from Irak,i live in Germany</h3>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW16cTY4YmxqbHJhdnEyZDlhcjlrbDlkaWRmdXBlcTNlbnd0ZnU4YSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/DyQrKMpqkAhNHZ1iWe/giphy.gif" width="400"/>
-
-                        
+                     
 How to reach me **zainab123raad@gmail.com**
 
 <p align="left">
